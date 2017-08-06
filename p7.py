@@ -6,4 +6,4 @@ def flatten_list(alist):
 
 #test
 print(flatten_list([1,2,3,4,['qwe','asd','zxc','wer',[5,6],'sdf']]))
-print(flatten_list([1,2,3,4,'qwe','asd','zxc','wer',5,6,'sdf']))	
+print(flatten_list([1,2,3,4,'qwe','asd','zxc','wer',5,6,'sdf']))
